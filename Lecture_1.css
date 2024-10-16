@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    
+    height: 50px;
+    width: 100%;
+    background-color: rgb(234, 231, 224);
+    position: relative;
+    /* background-image: url("C:\Users\akank\TCPPP\parallax1.jpg"); */
+    
+}
+.head{
+    display: flex;
+    justify-content: left;
+    justify-content:space-around;
+    text-decoration: none;
+    list-style-type: none;
+}   
+.head2{
+    height: 100px;
+    width: 100%;
+    /* background-image: url("parallax1.jpg"); */
+
+    
+}  
+#bl1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    
+}
